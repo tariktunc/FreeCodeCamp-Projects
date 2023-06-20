@@ -17,7 +17,7 @@ body {
   text-align: center;
 }
 #title h1 {
-  font-size: 40px;
+  font-size: 2.5rem;
 }
 #title p {
   font-size: 20px;
@@ -45,7 +45,8 @@ body {
 #tribute-info {
   display: flex;
   flex-direction: column;
-  margin: 0rem 20rem 0 20rem;
+  margin: auto auto auto auto;
+  max-width: 550px;
 }
 #tribute-info h3 {
   padding: 10px;
@@ -54,13 +55,11 @@ body {
 }
 
 #tribute-info ul li {
-  padding: 5px;
   line-height: 1.5;
-  margin: 0 20rem 0 20rem;
+  font-size: 1rem;
 }
 
 #tribute-info p {
   padding: 5px;
   line-height: 1.5;
-  margin: 0 20rem 0 20rem;
 }
