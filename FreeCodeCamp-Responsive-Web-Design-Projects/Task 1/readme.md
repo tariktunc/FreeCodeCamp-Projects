@@ -4,4 +4,4 @@
 <p>en-US</p>
 <h6>The task is a self-designed version of the Responsive Web Design Projects, which is the final part of the Responsive Web Design course offered by FreeCodeCamp.</h6>
 
-<a href=''>Live Site</a>
+<a href='https://free-code-camp-responsive-web-design-projects.vercel.app/'>Live Site</a>
