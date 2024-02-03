@@ -1,5 +1,5 @@
 
-# FreeCodeCamp Front End Development Libraries Projects
+# Responsive Web Design Projects
 
 This repository contains the 5 projects I completed for the FreeCodeCamp Front End Development Libraries certification. Each project utilizes Bootstrap, jQuery, Sass, React, and Redux to showcase my front end development skills. These projects are meticulously designed to reinforce and practically test everything I've learned so far.
 
