@@ -25,9 +25,4 @@ A virtual drum set that can be played with keyboard or mouse, created using Reac
 
 This project is a version of a JavaScript calculator developed with React. Redux is used to manage user inputs and perform calculations. It also features a modern and responsive design with Sass.
 
-## Conclusion
-
-These projects demonstrate how various applications can be created using modern web development tools and libraries. Working on these projects has been a significant learning experience for me, showing that I have acquired the skills and knowledge necessary to earn the FreeCodeCamp Front End Development Libraries certification.
-
 <a href='https://www.freecodecamp.org/certification/fcc76a50908-c6c5-4112-9879-9a5d85c40ab1/responsive-web-design'>Certification</a>
-
