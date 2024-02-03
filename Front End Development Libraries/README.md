@@ -30,8 +30,4 @@ This repository contains 5 projects I completed for the FreeCodeCamp Front End D
 - **Technologies:** HTML, Sass, React, Redux
 - **Features:** A timer application suitable for the Pomodoro technique, allowing users to set work and break times, counting down the time and notifying when the time is up.
 
-## Contributing
-
-The projects are open source and contributions are welcome. If you wish to contribute, please fork the project, make your changes, and submit a pull request.
-
 <a href='https://freecodecamp.org/certification/fcc76a50908-c6c5-4112-9879-9a5d85c40ab1/responsive-web-design'>Certification</a>
