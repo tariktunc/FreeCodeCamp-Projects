@@ -2,6 +2,7 @@
 
 <p>Study Timer is a Pomodoro application that helps users manage their study or work time effectively. Anyone interested can contribute to the project. Those who want to collaborate and improve the application can contact us at tarktunc@hotmail.com.</p>
 
+<a href='https://github.com/tariktunc/Study-Timer'>Github Repo Link</a>
 <a href="https://studytimerr.netlify.app">Live Stream</a>
 
 Getting Started
