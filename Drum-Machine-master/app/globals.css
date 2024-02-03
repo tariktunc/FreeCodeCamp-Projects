@@ -1,0 +1,37 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: Russo "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: bold;
+  user-select: none;
+}
+
+.dphidden {
+  display: none !important;
+}
+
+.backGroundColor {
+  background-color: #8d8d8d;
+}
+
+.padBankButton {
+  background-color: #8d8d8d;
+}
+
+.padBankButton:active {
+  background-color: #ffbb00;
+}
+
+.slider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 10px;
+  height: 30px;
+  background: blue;
+  cursor: pointer;
+}
