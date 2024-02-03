@@ -30,14 +30,6 @@ This repository contains 5 projects I completed for the FreeCodeCamp Front End D
 - **Technologies:** HTML, Sass, React, Redux
 - **Features:** A timer application suitable for the Pomodoro technique, allowing users to set work and break times, counting down the time and notifying when the time is up.
 
-## Setup and Use
-
-To run the projects locally:
-
-1. Navigate to the respective project folder.
-2. Install dependencies by running `npm install`.
-3. Start the application by running `npm start`.
-
 ## Contributing
 
 The projects are open source and contributions are welcome. If you wish to contribute, please fork the project, make your changes, and submit a pull request.
