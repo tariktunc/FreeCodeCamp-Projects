@@ -21,3 +21,5 @@ This application checks if a given phone number is in a valid US phone number fo
 ## Cash Register
 
 This project simulates a cash register application. Given the total price and cash given, it calculates the change due to the customer using the least number of coins and bills. This is an excellent practice for mathematical problem-solving and object-oriented programming skills.
+
+<a href='https://www.freecodecamp.org/certification/fcc76a50908-c6c5-4112-9879-9a5d85c40ab1/javascript-algorithms-and-data-structures'>Certification</a>
