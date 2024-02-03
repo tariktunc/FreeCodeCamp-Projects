@@ -1,4 +1,3 @@
-<h1>Proje Next.js React.js Sass kullanilarak yapilmistir.</h1>
-
- <p>Buradan erisim saglayabilirsiniz. Stream : <a href="https://markdown-previewer-bg9h0qlpx-tariktunc.vercel.app/">Live Web</a>
-</p>
+## Markdown Previewer
+Technologies: HTML, Sass, React
+Features: An application that converts users' Markdown text into HTML in real-time and provides a preview.
