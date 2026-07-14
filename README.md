@@ -30,3 +30,28 @@ Sadece görsel olarak çekici değil, aynı zamanda tamamen duyarlı web siteler
 JavaScript'te uygulanan çeşitli algoritmalar ve veri yapıları aracılığıyla problem çözme becerilerime daha yakından bir göz atın. Bu bölüm, karmaşık programlama zorluklarıyla başa çıkma konusundaki mantıksal düşünme yeteneğimi ve yeterliliğimi öne çıkarır.
 
 Bu dizinler, FreeCodeCamp ile öğrenme yolculuğumun bir parçası olan projeleri içermektedir, bu kapsamlı kursları tamamlayarak sertifikalar kazandım. Projeleri keşfetmek ve kodlama maceralarıma daha derinlemesine dalın.
+
+---
+
+## Proje Listesi
+
+### Front End Development Libraries
+- [Build a 25 + 5 Clock](Front%20End%20Development%20Libraries/Build%20a%2025%20%2B%205%20Clock)
+- [Build a Javascript Calculator](Front%20End%20Development%20Libraries/Build%20a%20Javascript%20Calculator)
+- [Build a Random Quote](Front%20End%20Development%20Libraries/Build%20a%20Random%20Quote)
+- [Drum Machine](Front%20End%20Development%20Libraries/Drum%20Machine)
+- [Markdown Previewer](Front%20End%20Development%20Libraries/Markdown%20Previewer)
+
+### JavaScript Algorithms and Data Structures
+- [Caesars Cipher](JavaScript%20Algorithms%20and%20Data%20Structures/Caesars%20Cipher)
+- [Cash Register](JavaScript%20Algorithms%20and%20Data%20Structures/Cash%20Register)
+- [Palindrome Checker](JavaScript%20Algorithms%20and%20Data%20Structures/Palindrome%20Checker)
+- [Random Numeral Converter](JavaScript%20Algorithms%20and%20Data%20Structures/Random%20Numeral%20Converter)
+- [Telephone Number Validator](JavaScript%20Algorithms%20and%20Data%20Structures/Telephone%20Number%20Validator)
+
+### Responsive Web Design Projects
+- [Build a Personal Portfolio Webpage](Responsive%20Web%20Design%20Projects/Build%20a%20Personal%20Portfolio%20Webpage)
+- [Build a Product Landing Page](Responsive%20Web%20Design%20Projects/Build%20a%20Product%20Landing%20Page)
+- [Build a Survey Form](Responsive%20Web%20Design%20Projects/Build%20a%20Survey%20Form)
+- [Build a Technical Documentation Page](Responsive%20Web%20Design%20Projects/Build%20a%20Technical%20Documentation%20Page)
+- [Build a Tribute Page](Responsive%20Web%20Design%20Projects/Build%20a%20Tribute%20Page)
